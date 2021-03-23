@@ -6,8 +6,8 @@
         "use": "sig",
         "kid": "pentesterlab",
         "alg": "RS256",
-        "e": "AQAB",
-        "n": "ANNwXSMGHD9S60hpPXmcbscJ4uDDL4GRl_1lys5CT9FkmghCJjVuYUjpdxyNWLPqhXiBdyRp1IFiMSaRxuyoa89zffOi1bYhbjpUHHvl9XWxej5DS5lNuz5ANYiqErS_-Cx90lmDbLSG7mZeHM_7PAbesCnDGM_2Tv0X8InBhBJSmAHJrzvRgdOx4LzBKslCfEajNp17yY7It48Qp5KWXAsVsPKY87LF27XUdBLKx568kVjo-zP3aridk_q1r-ch7yHXOCOEyl6jb2uYd_qqXM8CYky36SR8ruVthmeABhRIT0KYRGPk-AQrQW2UrFE9GqtKd9PMTyLwH_V-DRZk1UU"
+        "e": "E_key",
+        "n": "N_key"
       }
     ]
 }
