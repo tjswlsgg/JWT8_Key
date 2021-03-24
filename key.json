@@ -1,13 +1,12 @@
 {
-  "keys": 
-    [
-      {
-        "kty": "RSA",
-        "use": "sig",
-        "kid": "pentesterlab",
-        "alg": "RS256",
-        "e": "E_key",
-        "n": "N_key"
-      }
-    ]
+  "keys": [
+    {
+      "kty": "RSA",
+      "use": "sig",
+      "kid": "pentesterlab",
+      "alg": "RS256",
+      "e": "AQAB",
+      "n": "ANhh4US90lAlK1uedqfoVlgvzbZp7Vp5-oSfSxml66BzpBOH2nrrbljpQC6Oj8tH-8RMuKipKloycA_z6gVStUwxRmJKT55IKFu_Daz6ovc8JiEVOQhPcf15Sp9Bxptsz0X5ZM25sCCoJow3DUIOSJGVQyoLJuXHJrvvfxrD0hZRUqLXc_5F-ImUWqWms5PZyfQ19yNdWlKDPVCR4nrVqcfEyKp0VkZhmD-HN07Dle-GemQLRZnI6Jmh5HaSjYOjxy0NyTCV-fteironx7TL3uP4N5ca9eJ9VHvpokBng9WSt6IDVi4ebriFggVZ3QVFoduc31aksZWvej9pDWEPlLU"
+    }
+  ]
 }
